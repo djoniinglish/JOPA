@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+header  {
+    background-color: blue;
+    padding: 10px;
+}
+header a {
+    color: lightblue;
+}
+main h1 {
+    background-color: lightblue;
+    color: blue;
+    text-align: center;
+}
+footer p {
+    background-color: greenyellow;
+    padding: 10px;
+    color: blue;
+}
+nav {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid blue;
+}
+nav a{
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: blueviolet;
+    text-align: center;
+}
+.icon{
+    background-color: green;
+}
+h2 {
+    color: blue;
+}
+.kae {
+    border: 10px;
+}
